@@ -1,0 +1,36 @@
+.mingzat-regular {
+    font-family: "Mingzat", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+body {
+    background-image: url(img/cenario.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    font-size: 20px;
+
+}
+
+button {
+    font-size: 30px;
+    background-color: aliceblue;
+
+}
+
+
+.passo-ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 100%;    
+
+}
+
+
+
+img {
+    max-width: 100%;
+}
